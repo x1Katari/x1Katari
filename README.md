@@ -1,16 +1,20 @@
-### Hi there 👋
+# Динар - Backend Engineer
 
-<!--
-**x1Katari/x1Katari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Технологии:
+- **Frameworks**: DRF, FastApi, Flask, Aiogram 3.x
+- **ORM**: Django-orm, SQLAlchemy, Tortoise, Peewee
+- **Databases**: PostgreSQL, MySQL, Redis, MongoDB
+- **Migrations**: Alembic, Aerich
+- **DevOps**: Linux, nginx, Docker, Docker-compose
 
-Here are some ideas to get you started:
+## Обо мне:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Бэкэнд-разработчик на python.
+
+## Проекты:
+
+1. [RNN-covid-19](https://github.com/x1Katari/RNN-covid-19) Распознование covid-19 на рентгеновских снимках.
+
+## Контакты:
+
+Telegram – https://t.me/v1_amadey
