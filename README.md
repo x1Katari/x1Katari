@@ -1,12 +1,12 @@
 # Динар - Backend Engineer
 
 ## Технологии:
-- **Frameworks**: DRF, FastApi, Flask, Aiogram 3.x
+- **Frameworks**: FastApi, Flask, Aiogram 3.x
 - **ORM**: Django-orm, SQLAlchemy, Tortoise, Peewee
 - **Databases**: PostgreSQL, MySQL, Redis, MongoDB
 - **Migrations**: Alembic, Aerich
 - **DevOps**: Linux, nginx, Docker, Docker-compose
-- **Frontend**: JS|TS, CSS, HTML, React.JS, Next.JS
+- **Frontend**: JS, CSS, HTML
 ## Обо мне:
 
 Бэкэнд-разработчик на python.
