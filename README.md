@@ -9,7 +9,7 @@
 - **Frontend**: JS, CSS, HTML
 
 ## About me:
-Бэкэнд-разработчик на python.
+Python Backend Developer.
 
 ## Projects:
 
