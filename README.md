@@ -15,7 +15,7 @@ Python Backend Developer.
 
 1. [RNN-covid-19](https://github.com/x1Katari/RNN-covid-19) Recognition of covid-19 on x-rays.
 2. [AI_gpt_bot](https://github.com/x1Katari/AI_gpt_bot) Web App Telegram Bot with Chat-GPT.
-3. [Amadeus](https://github.com/x1Katari/Amadeus) Web App Telegram Bot - Online comic book reader.
+3. [Amadeus](https://github.com/x1Katari/Amadeus) Web App Telegram Bot - Online comic book reader on FastAPI.
 4. [SMIT](https://github.com/x1Katari/SMIT) Simple API on FastAPI, Tortoise, Aerich
 
 ## Contacts:
