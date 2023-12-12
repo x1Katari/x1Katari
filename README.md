@@ -1,10 +1,10 @@
 # Dinar - Backend Engineer
 
 ## Technologies:
-- **Frameworks**: FastApi, Flask, Aiogram 3.x
-- **ORM**: Django-orm, SQLAlchemy, Tortoise, Peewee
-- **Databases**: PostgreSQL, MySQL, Redis, MongoDB
-- **Migrations**: Alembic, Aerich
+- **Frameworks**: FastApi, Django, Aiogram 3
+- **ORM**: Django-orm, SQLAlchemy
+- **Databases**: Postgres, Redis, MongoDB
+- **Migrations**: Alembic
 - **DevOps**: Linux, nginx, Docker, Docker-compose
 - **Frontend**: JS, CSS, HTML
 
