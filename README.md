@@ -2,7 +2,7 @@
 
 ## Technologies:
 - **Frameworks**: FastApi, Django, Aiogram 3
-- **ORM**: Django-orm, SQLAlchemy
+- **ORM**: Django-orm, SQLAlchemy, SQLModel
 - **Databases**: Postgres, Redis, MongoDB
 - **Migrations**: Alembic
 - **DevOps**: Linux, nginx, Docker, Docker-compose
@@ -16,6 +16,7 @@ Python Backend Developer.
 1. [RNN-covid-19](https://github.com/x1Katari/RNN-covid-19) Recognition of covid-19 on x-rays.
 2. [AI_gpt_bot](https://github.com/x1Katari/AI_gpt_bot) Web App Telegram Bot with Chat-GPT.
 3. [SMIT](https://github.com/x1Katari/SMIT) Simple API on FastAPI, Tortoise, Aerich
+4. [Online-Chat](https://github.com/x1Katari/Online-Chat) Online chat on FastAPI WebSocket
 
 ## Contacts:
 
