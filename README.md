@@ -17,6 +17,7 @@ Python Backend Developer.
 2. [AI_gpt_bot](https://github.com/x1Katari/AI_gpt_bot) Web App Telegram Bot with Chat-GPT.
 3. [SMIT](https://github.com/x1Katari/SMIT) Simple API on FastAPI, Tortoise, Aerich
 4. [RNN-covid-19](https://github.com/x1Katari/RNN-covid-19) Recognition of covid-19 on x-rays.
+5. [Scripts](https://github.com/x1Katari/scripts) Various scripts (Freelance).
 
 ## Contacts:
 
